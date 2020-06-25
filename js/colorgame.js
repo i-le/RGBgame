@@ -48,7 +48,7 @@ resetButton.addEventListener("click", function() {
          squares[i].style.backgroundColor = colors[i]
      }
      h1.style.backgroundColor = "steelblue";
-     messageDisplay.textContent = "You Will Never Guessed Right"
+     messageDisplay.textContent = "My Eyes on You"
 })
 
     colorDisplay.textContent = pickedColor;
