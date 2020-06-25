@@ -1,4 +1,4 @@
-# RBGgame
+# RGBgame
 
 Giving a random RGB index at each time by guess the right color will  be more familiar with the fundamental RGBs.
 
